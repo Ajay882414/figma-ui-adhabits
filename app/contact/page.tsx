@@ -6,6 +6,13 @@ import CtaFooterSection from '@/components/CtaFooterSection';
 import ServicesMarquee from '@/components/ServicesMarquee';
 import TrustedBy from '@/components/TrustedBy';
 import React from 'react';
+import type { Metadata } from 'next';
+
+export const metadata: Metadata = {
+  title: 'Contact Adhabits | Start a Technology or Marketing Project',
+  description: 'Talk with Adhabits about web development, UI/UX design, AI automation, SEO, or a digital marketing project for your business.',
+  alternates: { canonical: '/contact' },
+};
 
 const Page = () => {
   return (

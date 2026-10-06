@@ -56,10 +56,10 @@ export default function ContactSection() {
               <p className="text-xs font-bold uppercase tracking-[0.2em] text-neutral-400">
                 Contact Us
               </p>
-              <h2 className="mt-4 text-3xl font-extrabold tracking-tight text-[#111111] sm:text-4xl lg:text-[44px] lg:leading-[1.18]">
-                Let&apos;s Enhance Your <br />
-                Excellent Enterprise With <br />
-                An Amazing Website
+                            <h2 className="mt-4 text-3xl font-extrabold tracking-tight text-[#111111] sm:text-4xl lg:text-[44px] lg:leading-[1.18]">
+                Ready to Scale? <br />
+                Let&apos;s Build Your Next <br />
+                Big Idea Together
               </h2>
             </div>
 

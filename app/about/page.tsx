@@ -12,12 +12,14 @@ import CompanyTimeline from "@/components/about/CompanyTimeline";
 import AgencyValues from "@/components/about/AgencyValues";
 import TrustedBy from "@/components/TrustedBy";
 import ServicesMarquee from "@/components/ServicesMarquee";
+import type { Metadata } from "next";
 
 
-export const metadata = {
-  title: "About Us & Methodology | Adhabits",
+export const metadata: Metadata = {
+  title: "About Adhabits | Technology & Digital Marketing Agency",
   description:
-    "Learn about our origin, engineering-first marketing principles, and the team building high-performance digital ecosystems.",
+    "Meet the Adhabits team and learn how our technology-first approach connects web development, design, and digital marketing for growing brands.",
+  alternates: { canonical: "/about" },
 };
 
 export default function AboutPage() {

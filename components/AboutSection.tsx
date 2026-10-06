@@ -75,18 +75,17 @@ export default function AboutSection() {
           </div>
 
           {/* Right Column: Statement Paragraph */}
-          <div className="border-t border-neutral-100 pt-8 lg:col-span-7 lg:border-l lg:border-t-0 lg:pl-16 lg:pt-0">
+                    <div className="lg:col-span-7 border-t border-neutral-100 pt-8 lg:border-l lg:border-t-0 lg:pl-16 lg:pt-0">
             <h2 className="text-2xl font-normal leading-[1.4] text-[#111111] sm:text-3xl lg:text-[34px]">
               <span className="font-semibold text-black">
-                We are a passionate digital team
+                Adhabits is a premier tech and marketing agency
               </span>{" "}
-              focused on delivering impactful web and mobile solutions.{" "}
+              dedicated to helping modern brands scale through precision and innovation.{" "}
               <span className="font-semibold text-black">
-                From concept to launch,
+                We bridge the gap between design and technology,
               </span>{" "}
               <span className="text-neutral-500">
-                we combine creativity, user research, and cutting-edge tools to
-                craft experiences that drive results.
+                delivering bespoke solutions that drive real business growth and digital dominance.
               </span>
             </h2>
           </div>

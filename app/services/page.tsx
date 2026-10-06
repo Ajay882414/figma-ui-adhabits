@@ -9,6 +9,13 @@ import ServicesMarquee from '@/components/ServicesMarquee';
 import TestimonialsSection from '@/components/TestimonialsSection';
 import TrustedBy from '@/components/TrustedBy';
 import React from 'react';
+import type { Metadata } from 'next';
+
+export const metadata: Metadata = {
+    title: 'Web Development & Digital Marketing Services',
+    description: 'Explore Adhabits services for custom web development, UI/UX design, AI automation, SEO, and performance-focused digital marketing.',
+    alternates: { canonical: '/services' },
+};
 
 const Page = () => {
     return (

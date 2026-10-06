@@ -1,4 +1,5 @@
 import AboutSection from "@/components/AboutSection";
+import BlogSection from "@/components/BlogSection";
 import ContactSection from "@/components/ContactSection";
 import CtaFooterSection from "@/components/CtaFooterSection";
 import FaqSection from "@/components/FaqSection";
@@ -23,6 +24,7 @@ export default function HomePage() {
       <ServicesSection/>
       <ProcessSection/>
       <TeamSection/>
+      <BlogSection/>
       <ServicesMarquee/>
       <TestimonialsSection/>
       <ContactSection/>

@@ -6,6 +6,13 @@ import StackHero from '@/components/stack/StackHero';
 import PremiumTechStack from '@/components/TechStack';
 import TrustedBy from '@/components/TrustedBy';
 import React from 'react';
+import type { Metadata } from 'next';
+
+export const metadata: Metadata = {
+  title: 'Technology Stack | Adhabits',
+  description: 'Explore the technologies Adhabits uses to build modern websites, digital products, and scalable business solutions.',
+  alternates: { canonical: '/stack' },
+};
 
 const Page = () => {
   return (

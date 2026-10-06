@@ -18,16 +18,16 @@ export default function Hero() {
           </span>
         </div>
 
-        {/* Main Headline */}
+                {/* Main Headline */}
         <h1 className="mx-auto mt-8 max-w-4xl text-4xl font-extrabold tracking-tight text-[#111111] sm:text-6xl sm:leading-[1.12] lg:text-7xl">
-          Designing Smart Solutions <br className="hidden sm:inline" />
-          For Modern Brands
+          Empowering Brands with <br className="hidden sm:inline" />
+          Advanced Tech & Marketing
         </h1>
 
         {/* Subtitle */}
         <p className="mx-auto mt-6 max-w-2xl text-base leading-relaxed text-neutral-600 sm:text-lg">
-          We help startups and growing businesses build powerful digital
-          experiences through strategy-driven design and innovative technology.
+          Adhabits is a results-driven agency that combines cutting-edge technology with 
+          strategic marketing to help businesses scale, innovate, and dominate their market.
         </p>
 
         {/* Action Buttons */}
